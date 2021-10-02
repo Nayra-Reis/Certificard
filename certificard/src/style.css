@@ -1,0 +1,57 @@
+body {
+  background-color: #EE3B3B;
+  font-family: 'Open Sans';
+}
+
+section {
+  -webkit-box-shadow: 1px -2px 24px 10px rgba(0,0,0,0.7); 
+box-shadow: 1px -2px 24px 10px rgba(0,0,0,0.7);
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width:500px;
+  margin-top: 100px;
+  background-color: white;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+section h1 {
+  font-size: 20px;
+}
+
+header {
+  background-image: url('https://image.freepik.com/vetores-gratis/padrao-sem-emenda-com-varios-gatos-bonitos_33070-4791.jpg');
+  background-size:cover;
+  height: 80px;
+}
+
+div {
+  padding: 15px;
+  max-width:500px;
+  background-color: #CD3333;
+  border: 1px solid black;
+  border-radius:5px;
+}
+
+li a {
+  text-decoration:none;
+  text-transform:uppercase;
+  color: black;
+}
+
+img {
+  width:150px;
+  height:150px;
+  border-radius: 100%;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  transform: translateY(-50%);
+  border: 8px solid white;
+}
+
+h2 {
+  text-align: center; 
+}
